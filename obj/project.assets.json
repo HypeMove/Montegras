@@ -11507,17 +11507,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/seba/Montegras/App/angular6/angular6.csproj",
+      "projectUniqueName": "/Users/seba/Documents/GitHub/Montegras/angular6.csproj",
       "projectName": "angular6",
-      "projectPath": "/Users/seba/Montegras/App/angular6/angular6.csproj",
+      "projectPath": "/Users/seba/Documents/GitHub/Montegras/angular6.csproj",
       "packagesPath": "/Users/seba/.nuget/packages/",
-      "outputPath": "/Users/seba/Montegras/App/angular6/obj/",
+      "outputPath": "/Users/seba/Documents/GitHub/Montegras/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/seba/.nuget/NuGet/NuGet.Config"
+        "/Users/seba/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11542,14 +11542,14 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.2, )",
-            "autoReferenced": true
+            "version": "[2.1.2, )"
           },
           "Microsoft.AspNetCore.SpaServices.Extensions": {
             "target": "Package",
             "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.2, )",
             "autoReferenced": true
